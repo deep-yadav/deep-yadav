@@ -64,7 +64,7 @@ Welcome to my GitHub profile! I'm an experienced Senior Back-End Web Developer w
 
 ![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithHarry&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithHarry&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-yadav&layout=compact&theme=radical)
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
 
