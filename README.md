@@ -4,17 +4,67 @@
     </h1>
 </div>
 
-<!--
-**deep-yadav/deep-yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an experienced Senior Back-End Web Developer with a passion for creating innovative and high-quality web applications. Here you'll find a collection of my projects and contributions to the open-source community.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages & Frameworks:** PHP, Laravel, JavaScript, Node.js, Express.js, HTML5, CSS, ReactJS
+- **Version Control:** GitHub
+- **Databases:** MySQL, Redis
+- **DevOps:** Docker
+- **Payment Gateways:** RazorPay, PaySprint, CoinPayment, Castler (Escro)
+- **Verification Services:** TheKYB, SprintVerify (Aadhaar, GST, PAN)
+- **Other Skills:** Project Management, Software Training, QA Engineering, MLM
+
+## 🚀 Projects
+
+### 1. BrainBucks
+
+**Description:** BrainBucks is an app designed for competitive exam aspirants and students preparing for Indian government exams like UPSC, SSC, and CGL. It provides quizzes and study materials covering subjects such as history, geography, current affairs, and more.
+
+**Skills:** Laravel Developer, MySQLi, Back-End Web Development, Postman API, QA Engineering, PHP, API Development, MySQL, PHP Frameworks
+
+### 2. Kotputli News
+
+**Description:** Kotputli News is a bilingual news platform delivering news updates in English and Hindi related to Kotputli and Jaipur areas. It focuses on local news, events, politics, social issues, and culture.
+
+**Skills:** Laravel Developer, MySQLi, Back-End Web Development, Cascading Style Sheets (CSS), PHP, API Development, Web Design, HTML5, PHP Frameworks
+
+### 3. Krypton Miners
+
+**Description:** Krypton Miners is a crypto mining app enabling users to mine various cryptocurrencies, manage transactions, and engage in peer-to-peer transfers. It features multiple income streams and a secure Coinpayment integration.
+
+**Skills:** Laravel Developer, Back-End Web Development, MLM, Postman API, QA Engineering, PHP, API Development, Analytical Skills, Software Development, MySQL, PHP Frameworks, REST APIs
+
+### 4. PayRupya
+
+**Description:** PayRupya is a digital business infrastructure supporting services like Aadhaar Enabled Payment System (AEPS), PAN card services, bill payments, domestic money transfers, and travel/hotel ticket bookings.
+
+**Skills:** Payment Gateways, API Testing, QA Engineering, Laravel, PHP, API Development, Team Management, Project Management, Payments, REST APIs
+
+## 🌱 Currently Learning
+
+- DevOps principles and tools
+- Node.js and Express.js for backend development
+- Docker for containerization
+- Redis for in-memory data structure storage
+
+## 💼 Currently Working On
+
+- Integrating international payment gateways Castler (Escro) for secure transactions.
+- Implementing KYB services globally using APIs from TheKYB and SprintVerify.
+- Performing Aadhaar, GST, and PAN verifications and creations through SprintVerify.
+
+## 📫 Get in Touch
+
+- LinkedIn: [linkedin.com/in/deep100](https://www.linkedin.com/in/deep100)
+- Email: [deepyadav5100@gmail.com](mailto:deepyadav5100@gmail.com)
+
+## 📈 GitHub Stats
+
+![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep-yadav&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-yadav&layout=compact&theme=radical)
+
+Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
+
